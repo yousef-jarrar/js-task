@@ -99,7 +99,6 @@ function switchCase(str) {
 
     return result;
 }
-
 console.log(switchCase("OrAnGe"));
 /////
 function camelCase(str) {
@@ -112,8 +111,8 @@ function camelCase(str) {
 
     return result;
 }
-
 console.log(camelCase("Coding Academy by Orange"));
+/////
 function removeElement(arr, element) {
     let index = arr.indexOf(element);
 
@@ -421,7 +420,7 @@ let address = {
 
 let result2 = mergeObjects(person, address);
 
-console.log(result);
+console.log(result2);
 //////////
 function upperCaseObject(obj) {
     let newObjj = {};

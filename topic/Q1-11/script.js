@@ -534,3 +534,5 @@ console.log(instructor1.getInfo());
 
 console.log(student1 instanceof Persons);
 console.log(instructor1 instanceof Persons);
+
+////////////////////////12
